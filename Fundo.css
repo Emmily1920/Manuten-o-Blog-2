@@ -1,0 +1,33 @@
+body {
+  background-color: lightblue;
+  font-family:Serif;
+}
+.centraliza-container{
+	margin:auto;
+}
+div{
+	text-align: center;
+	width:50%;
+	background-color:white;
+	padding:3em;
+	box-shadow:0 0 2.2em black rgba(0,0,0, .2);
+}
+header{
+	text-align:center;
+	
+}
+img {
+    width: 35%;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+}
+h1{
+	font-family:Fantasy;
+}
+h2{
+	text-align:center;
+	fonte-size:30px;
+}
+h3{
+	text-align:center;
+}
